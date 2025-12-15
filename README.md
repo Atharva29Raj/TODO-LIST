@@ -27,3 +27,7 @@ Filter tasks based on status, priority, etc.
 3.Add and manage your todo tasks
 
 4.Collaborate with other users by assigning tasks to them
+
+![ui](https://github.com/user-attachments/assets/c17ad75b-6c1e-4d40-a816-758d9dc5343d)
+
+
